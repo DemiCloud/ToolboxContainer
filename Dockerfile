@@ -39,6 +39,7 @@ RUN apk --no-cache add \
     curl{,-doc} \
     iftop{,-doc} \
     iperf3{,-doc} \
+    nmap{,-doc,-nping,-ncat,-scripts} \
     tcpdump{,-doc} \
     # Other
     htop{,-doc} \
