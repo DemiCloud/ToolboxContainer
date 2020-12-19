@@ -1,0 +1,12 @@
+#!/bin/bash
+# Toolbox script
+
+display_help(){
+    # help command
+    true
+}
+main(){
+    local argv=("$@")
+    # do some stuff
+}
+main "$@"

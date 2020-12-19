@@ -1,0 +1,8 @@
+#!/bin/bash
+# Profile disk for use in etcd
+# DemiCloud 2020
+
+main() {
+    local argv=("$@")
+}
+main "$@"
